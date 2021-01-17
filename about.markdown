@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Karl, a computer science undergrad who has an interest for everything 
+theoretical computer science from universal turing machines, abstract random machines,
+and combinatorial logic. My favorite tools are Unix (trying to learn FreeBSD right now)
+and Haskell for my day-to-day programming. Although, I would resort to Python or C if I 
+need to do something in an imperative manner.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Besides programming and CS, I love biking, playing the guitar, and heavy metal.
